@@ -1,18 +1,8 @@
-
-### Prerequisites
-- Python 3.x
-- `pip` (Python package installer)
-
-### Clone the Repository
-```bash
-git clone https://github.com/thegeek36/Missing-Person-Detection-System.git
-cd Missing-Person-Detection-System
-```
-
 ### Set Up Virtual Environment
 ```bash
 python -m venv venv
-source venv/bin/activate  # For Windows use: venv\Scripts\activate
+source venv/bin/activate
+# For Windows use: venv\Scripts\activate
 ```
 
 ### Install Dependencies
